@@ -1,0 +1,173 @@
+{
+  "pages": {
+    "/layout": [
+      "static/chunks/webpack-bf1951fc8fcb3f8c.js",
+      "static/chunks/2443530c-e3e2a3f6969276d8.js",
+      "static/chunks/488-3f93c865a427299c.js",
+      "static/chunks/main-app-14fc75fffa6f5f54.js",
+      "static/chunks/962-f4c0048d15ac7a77.js",
+      "static/css/edf93dc686104de6.css",
+      "static/chunks/app/layout-fcd95bfe3ffef893.js"
+    ],
+    "/(index)/page": [
+      "static/chunks/webpack-bf1951fc8fcb3f8c.js",
+      "static/chunks/2443530c-e3e2a3f6969276d8.js",
+      "static/chunks/488-3f93c865a427299c.js",
+      "static/chunks/main-app-14fc75fffa6f5f54.js",
+      "static/chunks/962-f4c0048d15ac7a77.js",
+      "static/chunks/858-0d91ba494838143c.js",
+      "static/chunks/277-f4b52f3b33859b06.js",
+      "static/chunks/563-b9c510d3ad0ab123.js",
+      "static/chunks/app/(index)/page-78852b4bda699abc.js"
+    ],
+    "/casino/page": [
+      "static/chunks/webpack-bf1951fc8fcb3f8c.js",
+      "static/chunks/2443530c-e3e2a3f6969276d8.js",
+      "static/chunks/488-3f93c865a427299c.js",
+      "static/chunks/main-app-14fc75fffa6f5f54.js",
+      "static/chunks/962-f4c0048d15ac7a77.js",
+      "static/chunks/858-0d91ba494838143c.js",
+      "static/chunks/277-f4b52f3b33859b06.js",
+      "static/chunks/158-8da10a47c926168f.js",
+      "static/chunks/app/casino/page-e87b680fe0ab83d7.js"
+    ],
+    "/promotions/page": [
+      "static/chunks/webpack-bf1951fc8fcb3f8c.js",
+      "static/chunks/2443530c-e3e2a3f6969276d8.js",
+      "static/chunks/488-3f93c865a427299c.js",
+      "static/chunks/main-app-14fc75fffa6f5f54.js",
+      "static/chunks/962-f4c0048d15ac7a77.js",
+      "static/chunks/858-0d91ba494838143c.js",
+      "static/chunks/app/promotions/page-1a3f067e435f11b3.js"
+    ],
+    "/livecasino/page": [
+      "static/chunks/webpack-bf1951fc8fcb3f8c.js",
+      "static/chunks/2443530c-e3e2a3f6969276d8.js",
+      "static/chunks/488-3f93c865a427299c.js",
+      "static/chunks/main-app-14fc75fffa6f5f54.js",
+      "static/chunks/962-f4c0048d15ac7a77.js",
+      "static/chunks/858-0d91ba494838143c.js",
+      "static/chunks/277-f4b52f3b33859b06.js",
+      "static/chunks/158-8da10a47c926168f.js",
+      "static/chunks/app/livecasino/page-b242ba8096e6d4f2.js"
+    ],
+    "/dashboard/page": [
+      "static/chunks/webpack-bf1951fc8fcb3f8c.js",
+      "static/chunks/2443530c-e3e2a3f6969276d8.js",
+      "static/chunks/488-3f93c865a427299c.js",
+      "static/chunks/main-app-14fc75fffa6f5f54.js",
+      "static/chunks/962-f4c0048d15ac7a77.js",
+      "static/chunks/858-0d91ba494838143c.js",
+      "static/chunks/33-57ffbfab6b790507.js",
+      "static/chunks/app/dashboard/page-1c49c411a0430cfb.js"
+    ],
+    "/dashboard/layout": [
+      "static/chunks/webpack-bf1951fc8fcb3f8c.js",
+      "static/chunks/2443530c-e3e2a3f6969276d8.js",
+      "static/chunks/488-3f93c865a427299c.js",
+      "static/chunks/main-app-14fc75fffa6f5f54.js",
+      "static/chunks/962-f4c0048d15ac7a77.js",
+      "static/chunks/app/dashboard/layout-a759fe90fc4850a8.js"
+    ],
+    "/dashboard/bethistory/page": [
+      "static/chunks/webpack-bf1951fc8fcb3f8c.js",
+      "static/chunks/2443530c-e3e2a3f6969276d8.js",
+      "static/chunks/488-3f93c865a427299c.js",
+      "static/chunks/main-app-14fc75fffa6f5f54.js",
+      "static/chunks/962-f4c0048d15ac7a77.js",
+      "static/chunks/33-57ffbfab6b790507.js",
+      "static/chunks/app/dashboard/bethistory/page-d1cb6244d416087c.js"
+    ],
+    "/dashboard/contact-preference/page": [
+      "static/chunks/webpack-bf1951fc8fcb3f8c.js",
+      "static/chunks/2443530c-e3e2a3f6969276d8.js",
+      "static/chunks/488-3f93c865a427299c.js",
+      "static/chunks/main-app-14fc75fffa6f5f54.js",
+      "static/chunks/962-f4c0048d15ac7a77.js",
+      "static/chunks/33-57ffbfab6b790507.js",
+      "static/chunks/app/dashboard/contact-preference/page-4d8bb2383b0972d6.js"
+    ],
+    "/dashboard/bonuses/page": [
+      "static/chunks/webpack-bf1951fc8fcb3f8c.js",
+      "static/chunks/2443530c-e3e2a3f6969276d8.js",
+      "static/chunks/488-3f93c865a427299c.js",
+      "static/chunks/main-app-14fc75fffa6f5f54.js",
+      "static/chunks/962-f4c0048d15ac7a77.js",
+      "static/chunks/33-57ffbfab6b790507.js",
+      "static/chunks/app/dashboard/bonuses/page-605f12557bff3234.js"
+    ],
+    "/dashboard/casinobet/page": [
+      "static/chunks/webpack-bf1951fc8fcb3f8c.js",
+      "static/chunks/2443530c-e3e2a3f6969276d8.js",
+      "static/chunks/488-3f93c865a427299c.js",
+      "static/chunks/main-app-14fc75fffa6f5f54.js",
+      "static/chunks/962-f4c0048d15ac7a77.js",
+      "static/chunks/33-57ffbfab6b790507.js",
+      "static/chunks/app/dashboard/casinobet/page-d80a23932c714a34.js"
+    ],
+    "/dashboard/deposit/page": [
+      "static/chunks/webpack-bf1951fc8fcb3f8c.js",
+      "static/chunks/2443530c-e3e2a3f6969276d8.js",
+      "static/chunks/488-3f93c865a427299c.js",
+      "static/chunks/main-app-14fc75fffa6f5f54.js",
+      "static/chunks/962-f4c0048d15ac7a77.js",
+      "static/chunks/33-57ffbfab6b790507.js",
+      "static/chunks/app/dashboard/deposit/page-f85ef4da01636b01.js"
+    ],
+    "/dashboard/notification/page": [
+      "static/chunks/webpack-bf1951fc8fcb3f8c.js",
+      "static/chunks/2443530c-e3e2a3f6969276d8.js",
+      "static/chunks/488-3f93c865a427299c.js",
+      "static/chunks/main-app-14fc75fffa6f5f54.js",
+      "static/chunks/962-f4c0048d15ac7a77.js",
+      "static/chunks/33-57ffbfab6b790507.js",
+      "static/chunks/app/dashboard/notification/page-1336f9fa14246720.js"
+    ],
+    "/dashboard/mypromo/page": [
+      "static/chunks/webpack-bf1951fc8fcb3f8c.js",
+      "static/chunks/2443530c-e3e2a3f6969276d8.js",
+      "static/chunks/488-3f93c865a427299c.js",
+      "static/chunks/main-app-14fc75fffa6f5f54.js",
+      "static/chunks/962-f4c0048d15ac7a77.js",
+      "static/chunks/33-57ffbfab6b790507.js",
+      "static/chunks/app/dashboard/mypromo/page-c1cb3c93a4d87264.js"
+    ],
+    "/dashboard/identity/page": [
+      "static/chunks/webpack-bf1951fc8fcb3f8c.js",
+      "static/chunks/2443530c-e3e2a3f6969276d8.js",
+      "static/chunks/488-3f93c865a427299c.js",
+      "static/chunks/main-app-14fc75fffa6f5f54.js",
+      "static/chunks/962-f4c0048d15ac7a77.js",
+      "static/chunks/33-57ffbfab6b790507.js",
+      "static/chunks/app/dashboard/identity/page-f851c1d857780016.js"
+    ],
+    "/dashboard/transaction/page": [
+      "static/chunks/webpack-bf1951fc8fcb3f8c.js",
+      "static/chunks/2443530c-e3e2a3f6969276d8.js",
+      "static/chunks/488-3f93c865a427299c.js",
+      "static/chunks/main-app-14fc75fffa6f5f54.js",
+      "static/chunks/962-f4c0048d15ac7a77.js",
+      "static/chunks/33-57ffbfab6b790507.js",
+      "static/chunks/app/dashboard/transaction/page-f905f492bca054b3.js"
+    ],
+    "/dashboard/withdraw/page": [
+      "static/chunks/webpack-bf1951fc8fcb3f8c.js",
+      "static/chunks/2443530c-e3e2a3f6969276d8.js",
+      "static/chunks/488-3f93c865a427299c.js",
+      "static/chunks/main-app-14fc75fffa6f5f54.js",
+      "static/chunks/962-f4c0048d15ac7a77.js",
+      "static/chunks/33-57ffbfab6b790507.js",
+      "static/chunks/app/dashboard/withdraw/page-1091347338c9906e.js"
+    ],
+    "/dashboard/verification/page": [
+      "static/chunks/webpack-bf1951fc8fcb3f8c.js",
+      "static/chunks/2443530c-e3e2a3f6969276d8.js",
+      "static/chunks/488-3f93c865a427299c.js",
+      "static/chunks/main-app-14fc75fffa6f5f54.js",
+      "static/chunks/962-f4c0048d15ac7a77.js",
+      "static/chunks/858-0d91ba494838143c.js",
+      "static/chunks/33-57ffbfab6b790507.js",
+      "static/chunks/app/dashboard/verification/page-f75fd147fdaf09bf.js"
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/(index)/page": "app/(index)/page.js",
+  "/casino/page": "app/casino/page.js",
+  "/promotions/page": "app/promotions/page.js",
+  "/livecasino/page": "app/livecasino/page.js",
+  "/dashboard/page": "app/dashboard/page.js",
+  "/dashboard/bethistory/page": "app/dashboard/bethistory/page.js",
+  "/dashboard/contact-preference/page": "app/dashboard/contact-preference/page.js",
+  "/dashboard/bonuses/page": "app/dashboard/bonuses/page.js",
+  "/dashboard/casinobet/page": "app/dashboard/casinobet/page.js",
+  "/dashboard/deposit/page": "app/dashboard/deposit/page.js",
+  "/dashboard/notification/page": "app/dashboard/notification/page.js",
+  "/dashboard/mypromo/page": "app/dashboard/mypromo/page.js",
+  "/dashboard/identity/page": "app/dashboard/identity/page.js",
+  "/dashboard/transaction/page": "app/dashboard/transaction/page.js",
+  "/dashboard/withdraw/page": "app/dashboard/withdraw/page.js",
+  "/dashboard/verification/page": "app/dashboard/verification/page.js"
+}

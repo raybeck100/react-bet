@@ -1,0 +1,19 @@
+{
+  "/favicon.ico/route": "/favicon.ico",
+  "/(index)/page": "/",
+  "/casino/page": "/casino",
+  "/promotions/page": "/promotions",
+  "/livecasino/page": "/livecasino",
+  "/dashboard/page": "/dashboard",
+  "/dashboard/bethistory/page": "/dashboard/bethistory",
+  "/dashboard/contact-preference/page": "/dashboard/contact-preference",
+  "/dashboard/bonuses/page": "/dashboard/bonuses",
+  "/dashboard/casinobet/page": "/dashboard/casinobet",
+  "/dashboard/deposit/page": "/dashboard/deposit",
+  "/dashboard/notification/page": "/dashboard/notification",
+  "/dashboard/mypromo/page": "/dashboard/mypromo",
+  "/dashboard/identity/page": "/dashboard/identity",
+  "/dashboard/transaction/page": "/dashboard/transaction",
+  "/dashboard/withdraw/page": "/dashboard/withdraw",
+  "/dashboard/verification/page": "/dashboard/verification"
+}
